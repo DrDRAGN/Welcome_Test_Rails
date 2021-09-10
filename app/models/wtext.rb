@@ -1,0 +1,2 @@
+class Wtext < ApplicationRecord
+end
